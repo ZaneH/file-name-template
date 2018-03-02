@@ -1,0 +1,8 @@
+from_path=/etc/passwd
+to_path=/home/zane
+---
+from_path=/etc/hosts
+to_path=/home/zane
+---
+from_path=/etc/sudoers
+to_path=/home/zane
